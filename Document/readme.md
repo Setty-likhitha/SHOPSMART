@@ -97,4 +97,4 @@ FUTURE IMPROVEMENTS
 
 DEMO VIDEO
 
-[![Watch on YouTube](https://youtu.be/Bu1p5tdxgYs)
+[![Watch on YouTube](https://www.youtube.com/watch?v=Bu1p5tdxgYs)
